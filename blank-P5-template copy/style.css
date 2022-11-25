@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+  }
+  
+  
+.canvasContainer{
+    /*display: block;*/
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    /* style canvas container here */
+}
