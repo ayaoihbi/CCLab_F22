@@ -13,7 +13,7 @@ let totalNum = 300;
 function setup() {
   
   let cnv = createCanvas(500,400);
-  console.log("canvas")
+
     cnv.parent("canvasContainer") 
 
   for (let i = 0; i < numOfParticles; i++) {

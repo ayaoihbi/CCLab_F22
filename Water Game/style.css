@@ -8,11 +8,23 @@ p{
     text-align: center;
     margin: 200;
     padding: 200;
+    
+}
+#title{
+   
+  font-size: 25px; 
+  font-weight: bold;
+  font-family: 'Syne Mono', monospace;
+  
+}
+#subtitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
 }
 canvas {
     position: absolute;
-    left: 100px;
-    top: 100px;
+    left: 500px;
+    top: 120px;
     
   }
   

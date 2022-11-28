@@ -21,12 +21,12 @@ function setup() {
   }
   let button1 = createButton("Left Jump");
   button1.mousePressed(changeRightDirection);
-  button1.position(260, 500);
+  button1.position(690, 520);
   button1.style("color:red");
   button1.style("backgroundColor: lightCoral")
   let button2 = createButton("Right Jump");
   button2.mousePressed(changeLeftDirection);
-  button2.position(330, 500);
+  button2.position(760, 520);
   button2.style("color:green");
   button2.style("backgroundColor: LightSeaGreen")
   for (let i = 0; i < totalNum; i++) {
