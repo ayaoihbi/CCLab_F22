@@ -51,11 +51,13 @@ html, body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
   }
-  #description{
-    
-   
+  p{
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: oblique;
 
 
   }
+ 
   
   
